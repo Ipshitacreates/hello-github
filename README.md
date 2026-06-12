@@ -5,3 +5,6 @@ I'm learning github today.
 -Python
 -C
 -Robotics and AI
+##Favorite Games
+-Genshin Impact
+-Minecraft
